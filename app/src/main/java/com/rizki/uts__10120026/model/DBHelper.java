@@ -1,5 +1,5 @@
 package com.rizki.uts__10120026.model;
-//07 Juni 2022, 10119079, Rafi Khalifanan Azanan, IF2
+//25 mei 2023, 10120026, Rizki Ramdani , IF1
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
