@@ -9,7 +9,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_rizki_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.UTS10119079DailyNotes">
+        android:theme="@style/Theme.UTS10120026DailyNotes">
         <activity android:name=".main.profile.ProfileActivity"></activity>
         <activity android:name=".main.diary.UpdateActivity" />
         <activity android:name=".main.diary.SaveActivity" />
